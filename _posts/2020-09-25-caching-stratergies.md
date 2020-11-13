@@ -2,6 +2,6 @@
 published: true
 ---
 
-![Caching Stratergies]({{site.baseurl}}/_posts/cache-image.jpeg)
+![Caching Stratergies](/assets/cache-image.jpeg)
 
 
