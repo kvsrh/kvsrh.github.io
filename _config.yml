@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Tech Musings
+title:             Musings
 description:      'Musing on all things@tech.'
 
 author:
