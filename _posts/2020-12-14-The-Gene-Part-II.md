@@ -24,8 +24,6 @@ The question then comes, how does the cell know of the current needs of the envi
 
 The genes therefore had in it information encoded not only about how to make the protein but also the circumstances/environment in which it is to be turned on.
 
-￼
-
 Regulatory function should also encompasses a cells ability to able to limit the DNA’s splitting and exponential growth. A replicator protein (DNA polymerase) takes up this role. A bunch of environment variables like age of the cell, current nutrients available dictates its ‘on’ and ‘off’ toggle mechanism. Like every other protein in the cell the DNA polymerase is also an off-product on the genome code in DNA. The DNA- ‘god what a molecule’ has provided itself information with information on how to replicate.
 
 Lastly how does the DNA transmute in its progenies and have both common and varied features from its parent organism? The simple transmution of single base pair can happen due to extragenous factors like exposure to x-rays or errors that can happen during replication. Where an A is switched to T.
