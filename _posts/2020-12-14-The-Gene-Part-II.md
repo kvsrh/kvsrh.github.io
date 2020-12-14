@@ -12,7 +12,7 @@ We start off where we ended the last chapter. How does the form of the DNA able 
 
 #### Recombination - how does DNA from parents get transmutes and progagate in progenies?
 
-The key to all the three functions is the double helical structure and the fact that bases pairs come in pairs.
+The key to all the three functions is the *double helical structure* and the fact that bases pairs come in pairs.
 
 When it needs to replicate, the DNA sort of unzips/splits into two single strands and two copies of the original are formed - serving replication function.
 
