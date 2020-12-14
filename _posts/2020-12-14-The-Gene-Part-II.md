@@ -6,11 +6,11 @@ title: Replication, Regulation and Recombination
 
 We start off where we ended the last chapter. How does the form of the DNA able its function? Looking at in reverse the three functions a DNA performs - replication, regulation and recombination.
 
-#Replication - when a new cell is created how does the DNA get replicated?
+# Replication - when a new cell is created how does the DNA get replicated?
 
-#Regulation - what prevents the dna from frenzied unabated replication. The lack of which we know now causes cancer. And also how does a single common genome code in cells enable cells across the body perform varied functions. To put in the author’s words - “Why is hemoglobin protein only found the RBC and not in our eyes”.
+# Regulation - what prevents the dna from frenzied unabated replication. The lack of which we know now causes cancer. And also how does a single common genome code in cells enable cells across the body perform varied functions. To put in the author’s words - “Why is hemoglobin protein only found the RBC and not in our eyes”.
 
-#Recombination - how does DNA from parents get transmutes and progagate in progenies?
+# Recombination - how does DNA from parents get transmutes and progagate in progenies?
 
 The key to all the three functions is the double helical structure and the fact that bases pairs come in pairs.
 
